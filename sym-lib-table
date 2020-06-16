@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name wemos)(type Legacy)(uri "/Users/paul/Documents/Electronics/Alarm_board_v_1_0 /Lib/wemos-d1-mini-kicad-master/libraries/wemos_mini.lib")(options "")(descr ""))
+  (lib (name d1mini)(type Legacy)(uri "/Users/paul/Documents/Electronics/Alarm_board_v_1_0 /Lib/d1_mini_kicad-master/library/wemos_mini.lib")(options "")(descr ""))
+  (lib (name UC3906)(type Legacy)(uri "/Users/paul/Documents/Electronics/Alarm_board_v_1_0 /Lib/ul_UC3906N/KiCAD/2020-05-27_22-14-17/2020-05-27_22-14-17.lib")(options "")(descr ""))
+)

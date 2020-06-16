@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name wimos)(type KiCad)(uri "/Users/paul/Documents/Electronics/Alarm_board_v_1_0 /Lib/wemos-d1-mini-kicad-master/modules/wemos-d1-mini.pretty")(options "")(descr ""))
+  (lib (name wimos2)(type KiCad)(uri "/Users/paul/Documents/Electronics/Alarm_board_v_1_0 /Lib/d1_mini_kicad-master/library/wemos_d1_mini.pretty")(options "")(descr ""))
+  (lib (name Footprints_master)(type KiCad)(uri /Users/paul/Documents/Electronics/Footprints_master)(options "")(descr ""))
+  (lib (name zone)(type KiCad)(uri "/Users/paul/Documents/Electronics/Alarm_board_v_1_0 /Lib/zone.pretty")(options "")(descr ""))
+)
